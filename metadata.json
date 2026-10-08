@@ -1,0 +1,8 @@
+{
+  "name": "Remix VIERNES",
+  "description": "Asistente virtual inteligente residente tipo VIERNES con IA, escucha de palabra clave y automatización",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">VIERNES</string>
+    <string name="assistant_title">VIERNES</string>
+    <string name="assistant_subtitle">Asistente Residente • Redmi Note 13</string>
+    <string name="wake_word_label">Palabra clave: «Viernes»</string>
+    <string name="status_idle">EN ESPERA</string>
+    <string name="status_listening">ESCUCHANDO…</string>
+    <string name="status_processing">PROCESANDO…</string>
+    <string name="status_speaking">RESPONDIENDO…</string>
+    <string name="status_error">ATENCIÓN</string>
+    <string name="input_placeholder">Escribe o di «Viernes, abre WhatsApp»…</string>
+    <string name="welcome_message">En línea. Soy VIERNES, tu asistente inteligente residente. Puedes llamarme diciendo «Viernes» o tocar el orbe.</string>
+
+    <!-- Ajustes de Inteligencia Artificial -->
+    <string name="ai_settings_title">Inteligencia Artificial</string>
+    <string name="ai_active_mode_title">Proveedor Activo</string>
+    <string name="ai_mode_auto_desc">AUTO: Usa IA externa cuando hay conexión y cambia a reglas locales si estás sin conexión.</string>
+    <string name="ai_mode_local_desc">SOLO LOCAL: Todo se procesa en el dispositivo. Máxima privacidad, sin internet.</string>
+    <string name="ai_mode_external_desc">SOLO EXTERNO: Consulta siempre al proveedor configurado en la nube.</string>
+    <string name="ai_service_title">Servicio Externo</string>
+    <string name="ai_service_gemini">Google Gemini</string>
+    <string name="ai_service_generic">Compatible con chat-completions</string>
+    <string name="ai_base_url_label">URL Base del API</string>
+    <string name="ai_base_url_invalid">La URL debe comenzar con https:// (o http://localhost para pruebas).</string>
+    <string name="ai_model_label">Nombre del Modelo</string>
+    <string name="ai_api_key_label">Clave API</string>
+    <string name="ai_api_key_saved">Clave guardada de forma segura</string>
+    <string name="ai_api_key_empty">Sin clave configurada</string>
+    <string name="ai_memory_share_title">Memoria compartible con IA externa</string>
+    <string name="ai_memory_share_disclaimer">Si activas una categoría, su contenido se envía al proveedor de IA cuando sea relevante.</string>
+    <string name="ai_test_connection_btn">Probar conexión</string>
+    <string name="ai_clear_history_btn">Borrar historial de conversación</string>
+    <string name="ai_privacy_title">Aviso de Privacidad y Seguridad</string>
+    <string name="ai_privacy_body">Tu privacidad es prioritaria. VIERNES nunca envía contraseñas, tokens bancarios, identificadores ni datos sin tu permiso explícito. Solo las categorías de memoria activadas y tu consulta actual se transmiten al proveedor seleccionado.</string>
+    <string name="ai_test_connected">Conectado con éxito</string>
+    <string name="ai_test_invalid_key">La clave no fue aceptada</string>
+    <string name="ai_test_no_internet">Sin conexión a internet</string>
+    <string name="ai_test_timeout">Tiempo de espera agotado</string>
+</resources>
